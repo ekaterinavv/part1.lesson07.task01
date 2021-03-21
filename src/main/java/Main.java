@@ -8,5 +8,4 @@ public class Main {
         WordSorter sorter = new WordSorter();
         sorter.start("text1.txt", "text1_out.txt");
     }
-
 }

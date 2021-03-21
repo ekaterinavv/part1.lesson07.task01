@@ -18,7 +18,6 @@ public class WordSorter {
             }
         } catch (FileNotFoundException e) {
             System.out.println(e);
-            ;
         } catch (IOException e) {
             System.out.println(e);
         }
